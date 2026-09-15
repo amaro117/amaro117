@@ -9,7 +9,7 @@
 
 ### 👨‍💻 Sobre mí
 
-- 🔭 Actualmente trabajo en **Aqua chile**
+- 🔭 Actualmente trabajo en **la NASA**
 - 🌱 Estoy aprendiendo **Desarrollo de apps mobiles**
 - 👯 Busco colaborar en **proyectos de código abierto relacionados con industria agropercuaria**
 - 💬 Pregúntame sobre **Java, Javascript, C, C++ y C# **
